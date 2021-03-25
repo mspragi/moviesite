@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* #Navbar{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+   
+} */
+
+#first_carousel{
+    background-color: #25304b;
+}
+
+ .menu {
+    padding: 0px 10px;  
+}
+.Menu_bar{
+    padding: 0px 4px;
+    background-color:#54585e;
+}
+.subscribe{
+    background-color: blue;
+    padding: 5px 27px;
+    border-radius: 2px;
+    width: 130px;
+    font-size: 18px;
+}
+
+#carouselExampleInterval .b{
+    height: 400px;
+}
+.b img{
+    border-radius: 5px;
+}
+.search{
+    width: 260px;
+    height: 30px;
+    padding: 0px 10px;
+}
+.right_side{
+    padding: 0px 15px;
+}
+#Second_Content{
+    background-color: #192133;
+    padding: 10px 15px;
+}
+#Second_Content img{
+    border-radius: 10px;
+} 
+.Model{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: 140px;
+}
+.Model_two{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: 140px;
+}
+
+.Inside_Model input{
+    border-top: none; 
+    border-left: none;
+    border-right: none;
+    padding: 5px;width:100%;
+    position: relative;
+    top: 90px; 
+    background-color: #0c111b;
+}
+
+
+.cs-hidden{
+    overflow: hidden;
+}
+
+#Recommended_movie .text{
+    color: black;
+}
+/* .card{
+    cursor: pointer;
+    width: 198px;
+    height: 266px;
+}
+.box,.back{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    backface-visibility: hidden;
+    position: absolute;
+    transition: transform .6s linear ;
+}
+.box{
+    transform: perspective(500px) rotateY(0deg);
+}
+
+.back{
+    background-color: white;
+    transform: perspective(500px) rotateY(180deg);
+}
+.card:hover>.box{
+    transform: perspective(500px) rotateY(-180deg);
+}
+.card:hover>.back{
+    transform: perspective(500px) rotateY(0deg);
+} */
+

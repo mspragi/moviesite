@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.box img{
+    width: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+    object-position: top;
+}
+.cs-hidden{
+    overflow: visible;
+}
+
